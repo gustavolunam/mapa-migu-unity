@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - botonPagina
+  - Frutas
+  - Pescados y Carnes
+  - Carnes congeladas
+  - "L\xE1cteos"
+  - Moda
+  - "Electr\xF3nica"
+  - Cajas de autocobro
+  - Cajas tradicionales
+  - Restaurante
+  - Productos nacionales
+  - "Panader\xEDa"
+  - "Salchichoner\xEDa"
+  - Farmacia
+  - Pasillos inferiores
+  - "Dulcer\xEDa"
+  - Congelados
+  - Pasillos centrales
+  - Pasillos superiores
+  - Tiempo limitado
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
